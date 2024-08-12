@@ -20,7 +20,7 @@ Programming for cybersecurity
 
 ## Skills
 
-<script src="https://tryhackme.com/badge/3360359"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/awiones.png" alt="TryHackMe">
 
 ## Tools
 
