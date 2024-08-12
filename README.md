@@ -20,6 +20,8 @@ Programming for cybersecurity
 
 ## Skills
 
+<script src="https://tryhackme.com/badge/3360359"></script>
+
 ## Tools
 
 ### Network
