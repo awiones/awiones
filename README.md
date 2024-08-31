@@ -1,7 +1,6 @@
 # Hello There!
-<a href="https://www.linkedin.com/in/al-ghozali-ramadhan-73966a283"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-👋 Hi there! I'm Awiones A.K.A Al Ghozali Ramadhan, and I'm currently diving into the fascinating world of cybersecurity. I'm passionate about learning how to protect digital systems and data.
+👋 Hi there! I'm Awiones, and I'm currently diving into the fascinating world of cybersecurity. I'm passionate about learning how to protect digital systems and data.
 
 ## Objective
 
