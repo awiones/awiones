@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://c.tenor.com/wfQoupcZhF0AAAAC/tenor.gif" align="center" style="width: 100%" />
-</div>  
-
-
 # 💫 About Me:
 
 - 🔭 I’m actively developing and enhancing my GitHub Profilinator project  
