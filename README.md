@@ -1,4 +1,4 @@
-#                                                                      💖 Hi there, i'm Awiones
+# 💖 Hi there, i'm Awiones
 ---
 
 I’m currently focused on developing my GitHub Profilinator project, diving into advanced Python for vulnerability scanning, and experimenting with Golang for scripting. Feel free to ask me about web development, simulation games, or cybersecurity—I’m always eager to exchange ideas. 
