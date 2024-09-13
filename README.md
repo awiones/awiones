@@ -71,23 +71,22 @@ I’m Awiones, a passionate software developer with a deep enthusiasm for explor
 <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;" />
 </a>
 
-
-<br/>  
+## 💖 Support Me
 
 <div align="center">
-            <a href="https://paypal.me/aghozali77" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="center"
-                />
-            </a>
-            <a href="https://ko-fi.com/awiones" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" 
-                    align="center"
-                />
-            </a></div>
-<br />
+    <a href="https://paypal.me/aghozali77" target="_blank" style="display: inline-block; margin: 5px;">
+        <img 
+            src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
+            alt="Donate with PayPal"
+        />
+    </a>
+    <a href="https://ko-fi.com/awiones" target="_blank" style="display: inline-block; margin: 5px;">
+        <img 
+            src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" 
+            alt="Donate with Ko-fi"
+        />
+    </a>
+</div>
 
 ---
 
