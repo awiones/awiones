@@ -59,6 +59,22 @@ I’m Awiones, a passionate software developer with a deep enthusiasm for explor
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awiones&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph"  />
 </div>
 
+## 🛠️ Projects
+
+### [Check Keyboard Data Key](https://awiones.github.io/whatisyourkeyboardkey.github.io/)
+An interactive web application that displays the key number when any key is pressed. Built using HTML, CSS, and JavaScript, this project showcases real-time key detection with a modern and user-friendly design.
+
+### [Chat with Cat](https://awiones.github.io/cat-chat.github.io/)
+A fun and engaging web application where users can chat with a virtual cat. Leveraging contemporary web technologies, this project offers a whimsical and interactive experience.
+
+### [NEScan](https://github.com/awiones/NEScan)
+NEScan is a comprehensive Python tool for analyzing network and website details. It performs a range of functions including DNS resolution, port scanning, SSL certificate retrieval, Whois data lookup, and IP geolocation. This tool is ideal for network administrators and security enthusiasts who need to gather detailed information about websites and IP addresses.
+
+### [EasyFuzzScan](https://github.com/awiones/EasyFuzzScan)
+EasyFuzzScan is a user-friendly tool designed for security scanning. It was the first repository I created and offers an accessible interface for performing security assessments. This project marks the beginning of my journey into developing security-focused tools.
+
+Feel free to explore these projects, and let me know if you have any questions or feedback. I’m always looking to improve and expand my work!
+
 ##  📫 How to Reach Me
 
 <a href="https://github.com/awiones" target="_blank">
