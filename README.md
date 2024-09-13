@@ -90,3 +90,7 @@ I’m currently focused on developing my GitHub Profilinator project, diving int
                 />
             </a></div>
 <br />
+
+---
+
+*This profile README.md was crafted with care to reflect my professional journey and ongoing projects. Thank you for visiting!*
