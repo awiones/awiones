@@ -54,9 +54,9 @@ I’m currently focused on developing my GitHub Profilinator project, diving int
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=awiones&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true" height="150" alt=""  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awiones&theme=dark&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awiones&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=awiones&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awiones&theme=city_lights&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awiones&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph"  />
 </div>
 
 ## Connect with me  
