@@ -77,9 +77,6 @@ Feel free to explore these projects, and let me know if you have any questions o
 
 ##  📫 How to Reach Me
 
-<a href="https://github.com/awiones" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
-</a>
 <a href="https://twitter.com/ojah77" target="_blank">
 <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="margin-bottom: 5px;" />
 </a>
@@ -94,7 +91,7 @@ Feel free to explore these projects, and let me know if you have any questions o
         <img 
             src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
             alt="Donate with PayPal"
-        />
+  />
     </a>
     <a href="https://ko-fi.com/awiones" target="_blank" style="display: inline-block; margin: 5px;">
         <img 
