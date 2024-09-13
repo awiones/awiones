@@ -1,6 +1,6 @@
-# 💖 Hi there, i'm Awiones
+# 👋 Hi there, i'm Awiones
 
-I’m currently focused on developing my GitHub Profilinator project, diving into advanced Python for vulnerability scanning, and experimenting with Golang for scripting. Feel free to ask me about web development, simulation games, or cybersecurity—I’m always eager to exchange ideas. 
+I’m Awiones, a passionate software developer with a deep enthusiasm for exploring various programming languages and technologies. While software development is my hobby, I dedicate a significant portion of my time to honing my skills and working on exciting projects. 
 
 
 <br/>  
@@ -59,7 +59,7 @@ I’m currently focused on developing my GitHub Profilinator project, diving int
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awiones&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph"  />
 </div>
 
-## Connect with me  
+##  📫 How to Reach Me
 <div align="center">
 <a href="https://github.com/awiones" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -71,7 +71,6 @@ I’m currently focused on developing my GitHub Profilinator project, diving int
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-
 
 <br/>  
 
