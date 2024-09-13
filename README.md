@@ -58,11 +58,6 @@ I’m currently focused on developing my GitHub Profilinator project, diving int
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awiones&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph"  />
 </div>
 
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=awiones&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/awiones" target="_blank">
