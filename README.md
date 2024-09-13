@@ -74,11 +74,6 @@ I’m currently focused on developing my GitHub Profilinator project, diving int
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=awiones&&style=flat-square" align="center" />
-</div>  
-  
-
 <br/>  
 
 <div align="center">
