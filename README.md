@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I’m currently focused on developing my GitHub Profilinator project, diving into advanced Python for vulnerability scanning, and experimenting with Golang for scripting. Feel free to ask me about web development, simulation games, or cybersecurity—I’m always eager to exchange ideas. When I’m not coding, I enjoy working on my next novel.
+I’m currently focused on developing my GitHub Profilinator project, diving into advanced Python for vulnerability scanning, and experimenting with Golang for scripting. Feel free to ask me about web development, simulation games, or cybersecurity—I’m always eager to exchange ideas. 
 
 
 <br/>  
