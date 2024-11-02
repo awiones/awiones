@@ -2,6 +2,8 @@
 
 I’m Al Ghozali Ramadhan A.K.A Awiones, a passionate software developer with a deep enthusiasm for exploring various programming languages and technologies. While software development is my hobby, I dedicate a significant portion of my time to honing my skills and working on exciting projects. 
 
+Fun fact about me: I'm also known as a novelist with same name as Awiones i've been create lot of novels through my journey one of the best novel i've create was [God of Grinding](https://www.webnovel.com/book/god-of-grinding_29416615208116505)
+
 <br/>  
 
 ## My Skill Set     
