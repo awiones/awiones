@@ -70,11 +70,10 @@ NEScan is a comprehensive Python tool for analyzing network and website details.
 ### [EasyFuzzScan](https://github.com/awiones/EasyFuzzScan)
 EasyFuzzScan is a user-friendly tool designed for security scanning. It was the first repository I created and offers an accessible interface for performing security assessments. This project marks the beginning of my journey into developing security-focused tools.
 
-### [EasyADB](https://github.com/awiones/EasyADB)
-EasyADB is a command-line tool designed to simplify the use of Android Debug Bridge (ADB) commands. It provides a user-friendly interface where users can execute ADB commands without the need to remember complex syntax. With EasyADB, you can manage Android devices, apps, files, and more simply by selecting options from a menu.
+### [Project LibreGet](https://github.com/awiones/LibreGet)
+An project of creating open source download manager with a good speed of download
 
-### [ScanYourDevice](https://github.com/awiones/scan-your-device)
-A Python code that is will scan everything inside your device, rather what is your gpu, cpu, battery and others (its safe guarantee no spyware)
+
 
 ##  📫 How to Reach Me
 
