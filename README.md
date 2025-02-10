@@ -1,93 +1,66 @@
-# 👋 Hi there, I'm Awiones
+# Al Ghozali Ramadhan
 
-I'm Al Ghozali Ramadhan A.K.A Awiones, a passionate software developer with a deep enthusiasm for exploring various programming languages and technologies. While software development is my hobby, I dedicate a significant portion of my time to honing my skills and working on exciting projects. 
+## 🚀 Professional Summary
 
-Fun fact about me: I'm also known as a novelist with same name as Awiones i've been create lot of novels through my journey one of the best novel i've create was [God of Grinding](https://www.webnovel.com/book/god-of-grinding_29416615208116505)
+Passionate software developer with expertise in full-stack development, network security, and AI technologies. Proven track record of creating innovative tools and solutions with a focus on Python, JavaScript, and web technologies. Committed to continuous learning and delivering high-impact technical solutions.
 
-<br/>  
+## 💻 Technical Skills
 
-## My Skill Set     
-<table><tr><td valign="top" width="33%">
+### Languages & Frameworks
+- **Frontend:** React, JavaScript, HTML5, CSS3, Bootstrap
+- **Backend:** Node.js, Python, PHP, Express.js
+- **DevOps:** Linux, Bash, Git
 
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-</div>
+### Tools & Technologies
+- Network Security Analysis
+- Web Development
+- AI Integration
+- Collaborative Development
 
-</td><td valign="top" width="33%">
-
-### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-### DevOps  
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-# 📊 GitHub Stats:
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awiones&theme=city_lights&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awiones&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph"  />
-</div>
-
-## 🛠️ Projects
-
-### [NEScan](https://github.com/awiones/NEScan)
-NEScan is a comprehensive Python tool for analyzing network and website details. It performs a range of functions including DNS resolution, port scanning, SSL certificate retrieval, Whois data lookup, and IP geolocation. This tool is ideal for network administrators and security enthusiasts who need to gather detailed information about websites and IP addresses.
-
-### [EasyFuzzScan](https://github.com/awiones/EasyFuzzScan)
-EasyFuzzScan is a user-friendly tool designed for security scanning. It was the first repository I created and offers an accessible interface for performing security assessments. This project marks the beginning of my journey into developing security-focused tools.
+## 🔬 Key Projects
 
 ### [Titan-O](https://github.com/awiones/Titan-O-)
-Titan-O is a cutting-edge web application designed for chatting with offline AI using Ollama. This innovative project enables users to interact with local AI models, providing a seamless and private conversational experience. Built with modern web technologies, Titan-O demonstrates my passion for creating intelligent and accessible AI solutions.
+**Offline AI Chat Web Application**
+- Developed a sophisticated web platform for local AI interactions using Ollama
+- Implemented advanced conversational AI capabilities
+- Technologies: php, Ollama
 
-##  📫 How to Reach Me
+### [NEScan](https://github.com/awiones/NEScan)
+**Network Exploration & Security Tool**
+- Comprehensive Python tool for network and website analysis
+- Features:
+  - DNS resolution
+  - Port scanning
+  - SSL certificate retrieval
+  - Whois data lookup
+  - IP geolocation
 
-<a href="https://twitter.com/ojah77" target="_blank">
-<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/oja_tp" target="_blank">
-<img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;" />
-</a>
+### [EasyFuzzScan](https://github.com/awiones/EasyFuzzScan)
+**Security Scanning Utility**
+- User-friendly security assessment tool
+- First repository showcasing security tool development skills
 
-## 💖 Support Me
+## 📊 GitHub Performance
 
 <div align="center">
-    <a href="https://paypal.me/aghozali77" target="_blank" style="display: inline-block; margin: 5px;">
-        <img 
-            src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-            alt="Donate with PayPal"
-  />
-    </a>
-    <a href="https://ko-fi.com/awiones" target="_blank" style="display: inline-block; margin: 5px;">
-        <img 
-            src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" 
-            alt="Donate with Ko-fi"
-        />
-    </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awiones&theme=city_lights&hide_border=false" height="150" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awiones&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="Top Languages" />
 </div>
+
+## 📝 Writing & Creative Work
+
+Author of the novel [God of Grinding](https://www.webnovel.com/book/god-of-grinding_29416615208116505), demonstrating creativity alongside technical expertise.
+
+## 🌐 Connect with Me
+
+[![Twitter](https://img.shields.io/badge/Twitter-@ojah77-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ojah77)
+[![Instagram](https://img.shields.io/badge/Instagram-@oja_tp-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/oja_tp)
+
+## 💡 Support My Work
+
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-blue?style=for-the-badge&logo=paypal)](https://paypal.me/aghozali77)
+[![Ko-Fi](https://img.shields.io/badge/Support-Ko--fi-F16061?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/awiones)
 
 ---
 
-*This profile README.md was crafted with care to reflect my professional journey and ongoing projects. Thank you for visiting!*
+*Innovating at the intersection of technology and creativity*
