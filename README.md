@@ -1,6 +1,6 @@
-# 👋 Hi there, i'm Awiones
+# 👋 Hi there, I'm Awiones
 
-I’m Al Ghozali Ramadhan A.K.A Awiones, a passionate software developer with a deep enthusiasm for exploring various programming languages and technologies. While software development is my hobby, I dedicate a significant portion of my time to honing my skills and working on exciting projects. 
+I'm Al Ghozali Ramadhan A.K.A Awiones, a passionate software developer with a deep enthusiasm for exploring various programming languages and technologies. While software development is my hobby, I dedicate a significant portion of my time to honing my skills and working on exciting projects. 
 
 Fun fact about me: I'm also known as a novelist with same name as Awiones i've been create lot of novels through my journey one of the best novel i've create was [God of Grinding](https://www.webnovel.com/book/god-of-grinding_29416615208116505)
 
@@ -16,12 +16,9 @@ Fun fact about me: I'm also known as a novelist with same name as Awiones i've b
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### Backend  
 <div align="center">  
@@ -36,8 +33,6 @@ Fun fact about me: I'm also known as a novelist with same name as Awiones i've b
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### DevOps  
 <div align="center">  
@@ -58,22 +53,14 @@ Fun fact about me: I'm also known as a novelist with same name as Awiones i've b
 
 ## 🛠️ Projects
 
-### [Check Keyboard Data Key](https://awiones.github.io/whatisyourkeyboardkey.github.io/)
-An interactive web application that displays the key number when any key is pressed. Built using HTML, CSS, and JavaScript, this project showcases real-time key detection with a modern and user-friendly design.
-
-### [Chat with Cat](https://awiones.github.io/cat-chat.github.io/)
-A fun and engaging web application where users can chat with a virtual cat. Leveraging contemporary web technologies, this project offers a whimsical and interactive experience.
-
 ### [NEScan](https://github.com/awiones/NEScan)
 NEScan is a comprehensive Python tool for analyzing network and website details. It performs a range of functions including DNS resolution, port scanning, SSL certificate retrieval, Whois data lookup, and IP geolocation. This tool is ideal for network administrators and security enthusiasts who need to gather detailed information about websites and IP addresses.
 
 ### [EasyFuzzScan](https://github.com/awiones/EasyFuzzScan)
 EasyFuzzScan is a user-friendly tool designed for security scanning. It was the first repository I created and offers an accessible interface for performing security assessments. This project marks the beginning of my journey into developing security-focused tools.
 
-### [Project LibreGet](https://github.com/awiones/LibreGet)
-An project of creating open source download manager with a good speed of download
-
-
+### [Titan-O](https://github.com/awiones/Titan-O-)
+Titan-O is a cutting-edge web application designed for chatting with offline AI using Ollama. This innovative project enables users to interact with local AI models, providing a seamless and private conversational experience. Built with modern web technologies, Titan-O demonstrates my passion for creating intelligent and accessible AI solutions.
 
 ##  📫 How to Reach Me
 
