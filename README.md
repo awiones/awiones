@@ -1,6 +1,6 @@
 # Al Ghozali Ramadhan
 
-## 🚀 Professional Summary
+## 🚀 Summary
 
 Passionate software developer with expertise in full-stack development, network security, and AI technologies. Proven track record of creating innovative tools and solutions with a focus on Python, JavaScript, and web technologies. Committed to continuous learning and delivering high-impact technical solutions.
 
