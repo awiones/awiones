@@ -8,7 +8,7 @@ Passionate software developer with expertise in full-stack development, network 
 
 ### Languages & Frameworks
 - **Frontend:** React, JavaScript, HTML5, CSS3, Bootstrap
-- **Backend:** Node.js, Python, PHP, Express.js
+- **Backend:** Node.js, Python, PHP, SQL
 - **DevOps:** Linux, Bash, Git
 
 ### Tools & Technologies
