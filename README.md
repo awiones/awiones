@@ -60,64 +60,89 @@ me.say_hi()
 ## <a name="projects"></a>🚀 Featured Projects
 
 <div align="center">
-
-<a href="https://github.com/awiones/Titan-O-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=awiones&repo=Titan-O-&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/awiones/NEScan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=awiones&repo=NEScan&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-
-</div>
-<div align="center">
-
-<a href="https://github.com/awiones/EasyFuzzScan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=awiones&repo=EasyFuzzScan&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-
+  <a href="https://github.com/awiones/Titan-O-">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=awiones&repo=Titan-O-&theme=tokyonight&hide_border=true&border_radius=10" />
+  </a>
+  <a href="https://github.com/awiones/NEScan">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=awiones&repo=NEScan&theme=tokyonight&hide_border=true&border_radius=10" />
+  </a>
 </div>
 
-### Titan-O
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![AI](https://img.shields.io/badge/AI-00FFFF?style=for-the-badge&logo=openai&logoColor=black)
+<div align="center" style="margin-top: 15px;">
+  <a href="https://github.com/awiones/EasyFuzzScan">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=awiones&repo=EasyFuzzScan&theme=tokyonight&hide_border=true&border_radius=10" />
+  </a>
+</div>
+
+<br>
+
+## Project Details
+
+### 🤖 Titan-O
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/AI-00FFFF?style=for-the-badge&logo=openai&logoColor=black" alt="AI"/>
+</p>
 
 **Offline AI Chat Web Application** - An innovative web platform for local AI interactions powered by Ollama, offering sophisticated conversational capabilities without requiring internet connectivity.
 
 <details>
-  <summary>View Project Details</summary>
+  <summary><b>✨ View Project Details</b></summary>
   
   ### Key Features
-  - Local model hosting with Ollama backend
-  - Real-time conversation interface with streaming responses
-  - Multiple AI model support
-  - Cross-platform compatibility
-  - Zero internet dependency for enhanced privacy
+  - 🔒 Local model hosting with Ollama backend
+  - 💬 Real-time conversation interface with streaming responses
+  - 🧠 Multiple AI model support
+  - 💻 Cross-platform compatibility
+  - 🛡️ Zero internet dependency for enhanced privacy
   
-  [View Code](https://github.com/awiones/Titan-O-) | [Live Demo](https://github.com/awiones/Titan-O-)
+  [<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>](https://github.com/awiones/Titan-O-) 
+  [<img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>](https://github.com/awiones/Titan-O-)
 </details>
 
-### NEScan
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Security](https://img.shields.io/badge/Security-FF0000?style=for-the-badge&logo=red-hat&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-4053D6?style=for-the-badge&logo=cisco&logoColor=white)
+### 🔍 NEScan
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Security-FF0000?style=for-the-badge&logo=red-hat&logoColor=white" alt="Security"/>
+  <img src="https://img.shields.io/badge/Networking-4053D6?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking"/>
+</p>
 
 **Network Exploration & Security Tool** - Comprehensive Python utility for network analysis featuring DNS resolution, port scanning, SSL certificate retrieval, Whois data lookup, and IP geolocation.
 
 <details>
-  <summary>View Project Details</summary>
+  <summary><b>✨ View Project Details</b></summary>
   
   ### Key Features
-  - Multi-threaded port scanning
-  - SSL certificate analysis
-  - DNS enumeration
-  - IP geolocation mapping
-  - WHOIS data retrieval
+  - 🚀 Multi-threaded port scanning
+  - 🔐 SSL certificate analysis
+  - 🌐 DNS enumeration
+  - 🗺️ IP geolocation mapping
+  - 📋 WHOIS data retrieval
   
-  [View Code](https://github.com/awiones/NEScan) | [Documentation](https://github.com/awiones/NEScan)
+  [<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>](https://github.com/awiones/NEScan) 
 </details>
 
-<hr>
+### 🔬 EasyFuzzScan
+<p>
+  <img src="https://img.shields.io/badge/Security-FF0000?style=for-the-badge&logo=red-hat&logoColor=white" alt="Security"/>
+</p>
+
+**Web Application Fuzzing Tool** - Streamlined security testing utility designed to identify vulnerabilities in web applications through advanced fuzzing techniques and parameter analysis.
+
+<details>
+  <summary><b>✨ View Project Details</b></summary>
+  
+  ### Key Features
+  - 🔄 Automated fuzzing workflows
+  - 🛡️ Vulnerability detection engine
+  - 📝 Comprehensive reporting
+  - ⚙️ Customizable payloads and rules
+  - 🔍 Parameter discovery
+  
+  [<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>](https://github.com/awiones/EasyFuzzScan) 
+  [<img src="https://img.shields.io/badge/Documentation-0A66C2?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Documentation"/>](https://github.com/awiones/EasyFuzzScan)
+</details>
 
 ## <a name="skills"></a>💻 Technical Expertise
 
