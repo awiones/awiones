@@ -34,76 +34,41 @@ me.say_hi()
 
 ## Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/awiones/Titan-O-">Titan-O</a></h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/AI-00FFFF?style=for-the-badge&logo=openai&logoColor=black" alt="AI" />
-      </div>
-      <p>
-        <strong>Offline AI Chat Web Application</strong> - An innovative web platform for local AI interactions powered by Ollama, offering sophisticated conversational capabilities without requiring internet connectivity.
-      </p>
-      <div align="center">
-        <a href="https://github.com/awiones/Titan-O-" target="_blank">
-          <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Code" />
-        </a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/awiones/NEScan">NEScan</a></h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Security-FF0000?style=for-the-badge&logo=red-hat&logoColor=white" alt="Security" />
-        <img src="https://img.shields.io/badge/Networking-4053D6?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" />
-      </div>
-      <p>
-        <strong>Network Exploration & Security Tool</strong> - Comprehensive Python utility for network analysis featuring DNS resolution, port scanning, SSL certificate retrieval, Whois data lookup, and IP geolocation.
-      </p>
-      <div align="center">
-        <a href="https://github.com/awiones/NEScan" target="_blank">
-          <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Code" />
-        </a>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/awiones/EasyFuzzScan">EasyFuzzScan</a></h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Security-FF0000?style=for-the-badge&logo=red-hat&logoColor=white" alt="Security" />
-        <img src="https://img.shields.io/badge/Analysis-444444?style=for-the-badge&logo=buffer&logoColor=white" alt="Analysis" />
-      </div>
-      <p>
-        <strong>Security Scanning Utility</strong> - User-friendly security assessment tool designed for efficient vulnerability detection and analysis across diverse network environments.
-      </p>
-      <div align="center">
-        <a href="https://github.com/awiones/EasyFuzzScan" target="_blank">
-          <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Code" />
-        </a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://www.webnovel.com/book/god-of-grinding_29416615208116505">God of Grinding</a></h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Novel-FF6B00?style=for-the-badge&logo=bookstack&logoColor=white" alt="Novel" />
-        <img src="https://img.shields.io/badge/Creative-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Creative" />
-        <img src="https://img.shields.io/badge/Writing-22C55E?style=for-the-badge&logo=markdown&logoColor=white" alt="Writing" />
-      </div>
-      <p>
-        <strong>Published Web Novel</strong> - Creative writing project showcasing storytelling abilities alongside technical expertise, demonstrating versatility across disciplines with engaging narrative.
-      </p>
-      <div align="center">
-        <a href="https://www.webnovel.com/book/god-of-grinding_29416615208116505" target="_blank">
-          <img src="https://img.shields.io/badge/Read_Now-FF6B00?style=for-the-badge&logo=bookstack&logoColor=white" alt="WebNovel" />
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
+### [Titan-O](https://github.com/awiones/Titan-O-)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![AI](https://img.shields.io/badge/AI-00FFFF?style=for-the-badge&logo=openai&logoColor=black)
+
+**Offline AI Chat Web Application** - An innovative web platform for local AI interactions powered by Ollama, offering sophisticated conversational capabilities without requiring internet connectivity.
+
+[View Code](https://github.com/awiones/Titan-O-)
+
+### [NEScan](https://github.com/awiones/NEScan)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Security](https://img.shields.io/badge/Security-FF0000?style=for-the-badge&logo=red-hat&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-4053D6?style=for-the-badge&logo=cisco&logoColor=white)
+
+**Network Exploration & Security Tool** - Comprehensive Python utility for network analysis featuring DNS resolution, port scanning, SSL certificate retrieval, Whois data lookup, and IP geolocation.
+
+[View Code](https://github.com/awiones/NEScan)
+
+### [EasyFuzzScan](https://github.com/awiones/EasyFuzzScan)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Security](https://img.shields.io/badge/Security-FF0000?style=for-the-badge&logo=red-hat&logoColor=white)
+![Analysis](https://img.shields.io/badge/Analysis-444444?style=for-the-badge&logo=buffer&logoColor=white)
+
+**Security Scanning Utility** - User-friendly security assessment tool designed for efficient vulnerability detection and analysis across diverse network environments.
+
+[View Code](https://github.com/awiones/EasyFuzzScan)
+
+### [God of Grinding](https://www.webnovel.com/book/god-of-grinding_29416615208116505)
+![Novel](https://img.shields.io/badge/Novel-FF6B00?style=for-the-badge&logo=bookstack&logoColor=white)
+![Creative](https://img.shields.io/badge/Creative-9146FF?style=for-the-badge&logo=twitch&logoColor=white)
+![Writing](https://img.shields.io/badge/Writing-22C55E?style=for-the-badge&logo=markdown&logoColor=white)
+
+**Published Web Novel** - Creative writing project showcasing storytelling abilities alongside technical expertise, demonstrating versatility across disciplines with engaging narrative.
+
+[Read Now](https://www.webnovel.com/book/god-of-grinding_29416615208116505)
 
 ## Technical Expertise
 
