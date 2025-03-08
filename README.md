@@ -208,10 +208,6 @@ me.say_hi()
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awiones&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=10" alt="Top Languages" height="180em" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=awiones&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%" />
 </div>
 
