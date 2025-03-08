@@ -61,15 +61,6 @@ me.say_hi()
 
 [View Code](https://github.com/awiones/EasyFuzzScan)
 
-### [God of Grinding](https://www.webnovel.com/book/god-of-grinding_29416615208116505)
-![Novel](https://img.shields.io/badge/Novel-FF6B00?style=for-the-badge&logo=bookstack&logoColor=white)
-![Creative](https://img.shields.io/badge/Creative-9146FF?style=for-the-badge&logo=twitch&logoColor=white)
-![Writing](https://img.shields.io/badge/Writing-22C55E?style=for-the-badge&logo=markdown&logoColor=white)
-
-**Published Web Novel** - Creative writing project showcasing storytelling abilities alongside technical expertise, demonstrating versatility across disciplines with engaging narrative.
-
-[Read Now](https://www.webnovel.com/book/god-of-grinding_29416615208116505)
-
 ## Technical Expertise
 
 ### Frontend Development
