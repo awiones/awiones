@@ -219,7 +219,7 @@ mindmap
 <div align="center">
   <a href="https://paypal.me/aghozali77"><img src="https://img.shields.io/badge/Support-PayPal-00457C?style=for-the-badge&logo=paypal" alt="PayPal" /></a>
   <a href="https://ko-fi.com/awiones"><img src="https://img.shields.io/badge/Support-Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi" alt="Ko-fi" /></a>
-  <a href="https://www.buymeacoffee.com"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" /></a>
+  <a href="buymeacoffee.com/awiones"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" /></a>
 </div>
 
 ---
