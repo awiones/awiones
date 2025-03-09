@@ -199,32 +199,91 @@ me.say_hi()
 <div align="center">
 
 ```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'fontSize': '16px'}}}%%
+%%{init: {'theme': 'dark', 'themeVariables': { 'fontSize': '16px', 'primaryColor': '#5a78b1', 'primaryTextColor': '#fff', 'lineColor': '#5a78b1'}}}%%
 mindmap
   root((Professional Focus))
     Full-Stack Development
       Frontend Technologies
-        React
-        JavaScript
-        CSS Frameworks
+        React/React Native
+        JavaScript/TypeScript
+        UI/UX Design
+          CSS Frameworks
+            Tailwind
+            Bootstrap
+            Material UI
+          Design Systems
+        Performance Optimization
       Backend Systems
-        Node.js
-        Python
-        PHP
+        API Development
+          REST
+          GraphQL
+        Languages
+          Node.js
+          Python
+          PHP
+          Go
         Databases
+          SQL
+            PostgreSQL
+            MySQL
+          NoSQL
+            MongoDB
+            Redis
+      DevOps
+        CI/CD Pipelines
+        Docker/Kubernetes
+        Cloud Services
+          AWS
+          Azure
+          GCP
     Network Security
       Penetration Testing
+        OWASP Top 10
+        Network Scanning
+        Exploit Development
       Vulnerability Assessment
+        Risk Analysis
+        Compliance Frameworks
+          ISO 27001
+          NIST
+          GDPR
       Security Tools
+        Wireshark
+        Metasploit
+        Burp Suite
       Secure Coding
+        Input Validation
+        Authentication Systems
+        Encryption Implementation
     AI & ML Integration
-      TensorFlow Applications
-      Chatbot Development
+      Machine Learning
+        TensorFlow
+        PyTorch
+        Scikit-learn
+      NLP Applications
+        Chatbot Development
+        Sentiment Analysis
+        Text Generation
+      Computer Vision
+        Image Recognition
+        Video Processing
       AI Web Services
+        API Integration
+        Model Deployment
+        Edge Computing
     Creative Projects
       Technical Writing
-      Fiction Writing
-      Documentation
+        Documentation
+        Tutorials
+        White Papers
+      Creative Writing
+        Fiction
+        Blog Posts
+        Technical Narratives
+      Content Creation
+        Educational Videos
+        Conference Talks
+        Open Source Contributions
 ```
 
 </div>
