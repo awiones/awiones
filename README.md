@@ -59,25 +59,6 @@ me.say_hi()
 
 ## <a name="projects"></a>🚀 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/awiones/Titan-O-">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=awiones&repo=Titan-O-&theme=tokyonight&hide_border=true&border_radius=10" />
-  </a>
-  <a href="https://github.com/awiones/NEScan">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=awiones&repo=NEScan&theme=tokyonight&hide_border=true&border_radius=10" />
-  </a>
-</div>
-
-<div align="center" style="margin-top: 15px;">
-  <a href="https://github.com/awiones/EasyFuzzScan">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=awiones&repo=EasyFuzzScan&theme=tokyonight&hide_border=true&border_radius=10" />
-  </a>
-</div>
-
-<br>
-
-## Project Details
-
 ### 🤖 Titan-O
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
