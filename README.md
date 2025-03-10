@@ -104,26 +104,28 @@ me.say_hi()
   [<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>](https://github.com/awiones/NEScan) 
 </details>
 
-### 🔬 EasyFuzzScan
+### 🔬 MercuriesOST
 <p>
-  <img src="https://img.shields.io/badge/Security-FF0000?style=for-the-badge&logo=red-hat&logoColor=white" alt="Security"/>
+  <img src="https://img.shields.io/badge/OSINT-0000FF?style=for-the-badge&logo=intelligence&logoColor=white" alt="OSINT"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
 </p>
 
-**Web Application Fuzzing Tool** - Streamlined security testing utility designed to identify vulnerabilities in web applications through advanced fuzzing techniques and parameter analysis.
+**Advanced Open Source Intelligence Tool** - A powerful OSINT framework that gathers, analyzes, and visualizes information from the web, helping researchers, security professionals, and investigators track digital footprints across major online platforms.
 
 <details>
   <summary><b>✨ View Project Details</b></summary>
   
   ### Key Features
-  - 🔄 Automated fuzzing workflows
-  - 🛡️ Vulnerability detection engine
-  - 📝 Comprehensive reporting
-  - ⚙️ Customizable payloads and rules
-  - 🔍 Parameter discovery
+  - 🔍 Automated data gathering from multiple online sources
+  - 📊 Interactive data visualization and analysis
+  - 🌐 Social media footprint discovery
+  - 🔄 Rate limit handling for efficient scanning
+  - ⚙️ Optimized system resource utilization
   
-  [<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>](https://github.com/awiones/EasyFuzzScan) 
-  [<img src="https://img.shields.io/badge/Documentation-0A66C2?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Documentation"/>](https://github.com/awiones/EasyFuzzScan)
+  [<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>](https://github.com/awiones/MercuriesOST)
+  [<img src="https://img.shields.io/badge/Documentation-0A66C2?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Documentation"/>](https://github.com/awiones/MercuriesOST)
 </details>
+
 
 ## <a name="skills"></a>💻 Technical Expertise
 
