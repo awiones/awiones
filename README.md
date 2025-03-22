@@ -57,75 +57,6 @@ me.say_hi()
 
 <hr>
 
-## <a name="projects"></a>🚀 Featured Projects
-
-### 🤖 Titan-O
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/AI-00FFFF?style=for-the-badge&logo=openai&logoColor=black" alt="AI"/>
-</p>
-
-**Offline AI Chat Web Application** - An innovative web platform for local AI interactions powered by Ollama, offering sophisticated conversational capabilities without requiring internet connectivity.
-
-<details>
-  <summary><b>✨ View Project Details</b></summary>
-  
-  ### Key Features
-  - 🔒 Local model hosting with Ollama backend
-  - 💬 Real-time conversation interface with streaming responses
-  - 🧠 Multiple AI model support
-  - 💻 Cross-platform compatibility
-  - 🛡️ Zero internet dependency for enhanced privacy
-  
-  [<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>](https://github.com/awiones/Titan-O-) 
-  [<img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>](https://github.com/awiones/Titan-O-)
-</details>
-
-### 🔍 NEScan
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Security-FF0000?style=for-the-badge&logo=red-hat&logoColor=white" alt="Security"/>
-  <img src="https://img.shields.io/badge/Networking-4053D6?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking"/>
-</p>
-
-**Network Exploration & Security Tool** - Comprehensive Python utility for network analysis featuring DNS resolution, port scanning, SSL certificate retrieval, Whois data lookup, and IP geolocation.
-
-<details>
-  <summary><b>✨ View Project Details</b></summary>
-  
-  ### Key Features
-  - 🚀 Multi-threaded port scanning
-  - 🔐 SSL certificate analysis
-  - 🌐 DNS enumeration
-  - 🗺️ IP geolocation mapping
-  - 📋 WHOIS data retrieval
-  
-  [<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>](https://github.com/awiones/NEScan) 
-</details>
-
-### 🔬 MercuriesOST
-<p>
-  <img src="https://img.shields.io/badge/OSINT-0000FF?style=for-the-badge&logo=intelligence&logoColor=white" alt="OSINT"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-</p>
-
-**Advanced Open Source Intelligence Tool** - A powerful OSINT framework that gathers, analyzes, and visualizes information from the web, helping researchers, security professionals, and investigators track digital footprints across major online platforms.
-
-<details>
-  <summary><b>✨ View Project Details</b></summary>
-  
-  ### Key Features
-  - 🔍 Automated data gathering from multiple online sources
-  - 📊 Interactive data visualization and analysis
-  - 🌐 Social media footprint discovery
-  - 🔄 Rate limit handling for efficient scanning
-  - ⚙️ Optimized system resource utilization
-  
-  [<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>](https://github.com/awiones/MercuriesOST)
-  [<img src="https://img.shields.io/badge/Documentation-0A66C2?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Documentation"/>](https://github.com/awiones/MercuriesOST)
-</details>
-
 
 ## <a name="skills"></a>💻 Technical Expertise
 
@@ -180,19 +111,10 @@ me.say_hi()
 <hr>
 
 ## <a name="stats"></a>📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=awiones&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" width="100%" />
-</div>
-
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awiones&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=10" alt="Top Languages" height="180em" />
+   <img src="https://github-readme-stats.vercel.app/api?username=awiones&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&border_radius=10" alt="GitHub Stats" height="180em" />
  </div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=awiones&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%" />
-</div>
-
 <hr>
 
 ## 🧠 Professional Focus Areas
@@ -204,87 +126,35 @@ me.say_hi()
 mindmap
   root((Professional Focus))
     Full-Stack Development
-      Frontend Technologies
+      Frontend
         React/React Native
         JavaScript/TypeScript
         UI/UX Design
-          CSS Frameworks
-            Tailwind
-            Bootstrap
-            Material UI
-          Design Systems
-        Performance Optimization
-      Backend Systems
+      Backend
         API Development
-          REST
-          GraphQL
         Languages
           Node.js
           Python
-          PHP
           Go
         Databases
-          SQL
-            PostgreSQL
-            MySQL
-          NoSQL
-            MongoDB
-            Redis
       DevOps
-        CI/CD Pipelines
+        CI/CD
         Docker/Kubernetes
         Cloud Services
-          AWS
-          Azure
-          GCP
     Network Security
       Penetration Testing
-        OWASP Top 10
-        Network Scanning
-        Exploit Development
       Vulnerability Assessment
-        Risk Analysis
-        Compliance Frameworks
-          ISO 27001
-          NIST
-          GDPR
       Security Tools
-        Wireshark
-        Metasploit
-        Burp Suite
       Secure Coding
-        Input Validation
-        Authentication Systems
-        Encryption Implementation
     AI & ML Integration
       Machine Learning
-        TensorFlow
-        PyTorch
-        Scikit-learn
       NLP Applications
-        Chatbot Development
-        Sentiment Analysis
-        Text Generation
       Computer Vision
-        Image Recognition
-        Video Processing
       AI Web Services
-        API Integration
-        Model Deployment
-        Edge Computing
     Creative Projects
       Technical Writing
-        Documentation
-        Tutorials
-        White Papers
       Creative Writing
-        Fiction
-        Blog Posts
-        Technical Narratives
       Content Creation
-        Educational Videos
-        Conference Talks
-        Open Source Contributions
 ```
 
 </div>
