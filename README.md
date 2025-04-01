@@ -112,7 +112,6 @@ mindmap
     Full-Stack Development
       Frontend Technologies
         React/React Native
-        Vue.js
         UI/UX Design
       Backend Systems
         API Development
