@@ -38,8 +38,8 @@ me.say_hi()
   <summary><b>More about me</b></summary>
   <br>
   
-  - 🔭 Currently working on: AI-powered security tools and offline AI applications
-  - 🌱 Learning: Advanced cloud architecture and serverless computing
+  - 🔭 Currently exploring: DDoS and stress-testing tools (for educational and defensive research purposes)
+  - 🌱 Learning: Network security, mitigation techniques, and DDoS attack methodologies
   - 💬 Areas of expertise: Full-stack development, cybersecurity, AI integration
   - 📝 When not coding: Writing technical articles and creative fiction
   - 🌐 Languages: English, Indonesian (Native)
