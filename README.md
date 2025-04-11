@@ -38,7 +38,7 @@ me.say_hi()
   <summary><b>More about me</b></summary>
   <br>
   
-  - 🔭 Currently exploring: DDoS and stress-testing tools (for educational and defensive research purposes)
+  - 🔭 Currently exploring: DDoS and stress-testing tools (for educational and defensive research purposes), and computer connect one to each other
   - 🌱 Learning: Network security, mitigation techniques, and DDoS attack methodologies
   - 💬 Areas of expertise: Full-stack development, cybersecurity, AI integration
   - 📝 When not coding: Writing technical articles and creative fiction
