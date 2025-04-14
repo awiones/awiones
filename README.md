@@ -23,7 +23,7 @@ class AlGhozali:
         self.name = "Al Ghozali Ramadhan"
         self.role = "Full-Stack Developer & Security Specialist"
         self.location = "Indonesia"
-        self.languages = ["Python", "JavaScript", "TypeScript", "PHP", "Go", "C", "C++"]
+        self.languages = ["Python", "JavaScript", "TypeScript", "PHP", "Go", "C", "C++", "Go"]
         self.interests = ["Security Research", "AI Development", "Creative Writing"]
         
     def say_hi(self):
