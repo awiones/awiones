@@ -1,4 +1,4 @@
-# Al Ghozali Ramadhan
+# Al Ghozali Ramadhan 
 
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Network+Security+Specialist;AI+Enthusiast;Technical+Writer" alt="Typing SVG" /></a>
