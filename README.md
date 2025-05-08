@@ -63,13 +63,6 @@ mindmap
   <img src="https://github-readme-stats.vercel.app/api?username=awiones&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&border_radius=8" alt="GitHub Stats" height="170em" />
 </div>
 
-## Let's Connect
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/al-ghozali-ramadhan-73966a283/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:awiones@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://awiones.github.io/Al-Portofolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio"/></a>
-</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=awiones&style=flat-square&color=0366d6" alt="Profile Views" />
