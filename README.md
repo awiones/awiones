@@ -63,6 +63,7 @@ mindmap
   <img src="https://github-readme-stats.vercel.app/api?username=awiones&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&border_radius=8" alt="GitHub Stats" height="170em" />
 </div>
 
+---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=awiones&style=flat-square&color=0366d6" alt="Profile Views" />
