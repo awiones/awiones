@@ -23,7 +23,7 @@ class AlGhozali:
         self.role = "Full-Stack Developer & Security Specialist"
         self.location = "Indonesia"
         self.languages = ["Python", "JavaScript", "TypeScript", "PHP", "Go", "C", "C++"]
-        self.interests = ["Security Research", "AI Development", "Creative Writing"]
+        self.interests = ["Security Research", "Creative Writing"]
         
     def say_hi(self):
         print("Thanks for visiting my profile! Let's build something amazing together.")
