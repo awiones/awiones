@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0366D6&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Security+Specialist;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </div>
 
-<div align="center">
+<div align="center"> 
   <img src="https://komarev.com/ghpvc/?username=awiones&style=flat-square&color=0366d6" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/awiones?style=flat-square&color=0366d6" alt="Followers" />
 </div>
