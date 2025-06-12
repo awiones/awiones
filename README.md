@@ -48,11 +48,6 @@ print(me.current_status())
 
 ---
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=awiones&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=4" />
-</div>
-
 ## 🎯 Current Focus
 
 ```mermaid
