@@ -42,10 +42,6 @@ print(me.current_status())
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awiones&layout=compact&langs_count=8&theme=github_dark"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awiones&theme=github-dark-blue" alt="GitHub Streak" />
-</div>
-
 ---
 
 ## 🎯 Current Focus
