@@ -78,7 +78,7 @@ graph LR
 </div>
 
 ---
-
+ 
 ## 💬 Ask Me About
 - 🔐 **Cybersecurity** - Penetration testing, threat analysis, secure coding practices
 - 🌐 **Full-Stack Development** - Modern web applications, API design, system architecture
